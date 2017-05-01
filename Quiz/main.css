@@ -1,0 +1,42 @@
+body {
+	margin-left:50px;
+}
+
+#question1, #question2, #question3, #question4, #question5,
+#question6, #question7, #question8, #question9, #question10 {
+	display:none;
+}
+
+canvas{
+	display:none;
+}
+
+.correct{
+	background-color:#24399f;
+	color:white;
+}
+
+.correct_color1{
+	background-color: green;
+	color:white;
+}
+
+.correct_color3{
+	background-color: #f8bdd8;
+	color:white;
+}
+
+.correct_color5{
+	background-color: #9223EF;
+	color: white;
+}
+
+.correct_color7{
+	background-color: #bbbbbb;
+	color: white;
+}
+
+.correct_color9{
+	background-color: #530b17;
+	color: white;
+}
